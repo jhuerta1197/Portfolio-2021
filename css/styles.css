@@ -1,8 +1,22 @@
+#nav{
+    background-color: rgb(0, 21, 36);
+}
+
 
 .jumbotron{
-    background-image: url(https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80); 
+    background-image: url(https://images.unsplash.com/photo-1527823689875-92894fb572c2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80); 
     background-size: cover;
+    background-position: center;
+    
 }
+
+.darkTransparent{
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'IBM Plex Mono', monospace;
+    /* background-color: rgba(32, 32, 32, 0.3);
+    border: 5px solid rgb(83, 87, 35); */
+}
+
 
 #aboutMe{
     
@@ -14,4 +28,8 @@
 
 #projectSection{
     background-color: rgb(255, 236, 209);
+}
+
+#contactMe{
+    background-color: rgb(0, 21, 36);
 }
