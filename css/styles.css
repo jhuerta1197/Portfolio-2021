@@ -1,6 +1,12 @@
 
+body{
+    background-color: rgb(83, 87, 35) !important;
+}
+
+
+
 #nav{
-    background-color: rgb(0, 21, 36);
+    background-color: rgb(0, 21, 36, .75);
 }
 
 .jumbotron{
@@ -38,4 +44,10 @@
 
 #contactMe{
     background-color: rgb(0, 21, 36);
+}
+
+.iconSize{
+    font-size: 425%;
+    padding: 5%;
+    color: white;
 }
